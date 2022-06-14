@@ -1,0 +1,25 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "simple crud api",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klim-dev86/CRUD-API.git"
+  },
+  "author": "Denis Klimenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klim-dev86/CRUD-API/issues"
+  },
+  "homepage": "https://github.com/Klim-dev86/CRUD-API#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.3"
+  }
+}
